@@ -1,0 +1,1 @@
+# aws-git-crypt-sqlite
